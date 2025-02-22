@@ -28,7 +28,7 @@ List<Employee> employees = [
 		var result = employees.DistinctBy(x => x.Name).Select(x => x.Name);
 		result.Dump();
 ```
-+ 💻 Пример использования LINQ
++ 💻 [Пример использования LINQ](https://github.com/DeNaN20250203/How-To-Use-LINQ-in-CSharp/blob/main/LinqDemo/Program.cs)
 ```csharp
 public class Employee
 {
