@@ -1,6 +1,6 @@
 <a id="anchor"></a>
 # Как использовать LINQ в C#
-<a href="https://github.com/DeNaN20250203/How-To-Use-LINQ-in-CSharp" target="_blank"><img src="Cover 20250222_013a.jpg" alt="Image" width="300" /></a>
+<a href="#anchor" target="_blank"><img src="Cover 20250222_013a.jpg" alt="Image" width="300" /></a>
 ## Введение
 
 > LINQ (Language Integrated Query) — это функция в C#, которая позволяет упростить работу с данными. Вместо того чтобы писать сложные SQL-запросы, можно использовать более простой и понятный синтаксис LINQ. Это помогает избежать ошибок и обеспечивает последовательный способ работы с данными из различных источников.
